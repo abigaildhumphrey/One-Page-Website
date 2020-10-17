@@ -1,0 +1,37 @@
+
+html {
+    font-family: Georgia, serif, times;
+    font-size: 95%;
+    -webkit-tap-highlight-color: grey;
+  }
+
+.contact{
+   
+
+}
+
+.form-spacer{
+    
+}
+
+.terms{
+    font-size: 20px;
+    font-family: Georgia, 'Helvetica', Times, serif;
+    font-style: italic;
+    text-transform: uppercase;
+
+}
+
+.book{
+    margin: auto;
+    padding: 8px;
+    font-style: italic;
+    background-color: #fff6e2;
+    width: 20%;
+    font-size: 15px;
+    text-align: center;
+    border: transparent;
+    border-radius: 12%;
+
+
+}
